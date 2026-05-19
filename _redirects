@@ -4,4 +4,4 @@
 /f/* https://s.shopee.co.id/9UyQj9g7z5 302
 
 # Force HTTP to HTTPS
-http://vdcloy.de/* https://videyf.xyz/:splat 301!
+http://vdcloy.de/* https://vdcloy.de/:splat 301!
