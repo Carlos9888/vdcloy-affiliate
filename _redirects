@@ -5,3 +5,6 @@
 
 # Force HTTP to HTTPS
 http://vdcloy.de/* https://vdcloy.de/:splat 301!
+
+# Optional: Redirect www to non-www
+www.vdcloy.de/* https://vdcloy.de/:splat 301!
